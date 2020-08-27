@@ -1,4 +1,5 @@
-# I am Suheer a Self Intstructed Web Developer.
+# I am Suheer a Self Intstructed Web Developer. [![HitCount](http://hits.dwyl.com/muhammadsuheer/{project}.svg)](http://hits.dwyl.com/muhammadsuheer/{project})
+
 
 
 ### I am a Senior Full Stack web developer  who is very passionate about his career :heart_eyes: wHo love to code all the time. Suheer is a Hard worker who contributed to many Real world projects especially during the participation in the Google Codein Competition :heart: Yess it is Gooogle codein where i solved too many problems. 
