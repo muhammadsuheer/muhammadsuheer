@@ -37,4 +37,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadsuheer&show_icons=true&locale=en" alt="muhammadsuheer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsuheer&" alt="muhammadsuheer" /></p>
