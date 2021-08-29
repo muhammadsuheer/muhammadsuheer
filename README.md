@@ -35,7 +35,8 @@
 <hr />
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsuheer&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="muhammadsuheer" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsuheer&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="muhammadsuheer" />
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadsuheer&show_icons=true&locale=en&theme=chartreuse-dark" alt="muhammadsuheer" /></p>
+</p>
+
 
