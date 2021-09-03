@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsuheer&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsuheer" /> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/muhammadsuheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="muhammadsuheer" height="30" width="40" /></a>
-<a href="https://dev.to/muhammadsuheer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="muhammadsuheer" height="30" width="40" /></a>
+<a href="https://codepen.io/muhammadsuheer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="muhammadsuheer" height="30" width="40" /></a>
+<a href="https://dev.to/muhammadsuheer" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="muhammadsuheer" height="30" width="40" /></a>
 <a href="https://twitter.com/muhammad_suheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammad_suheer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-suheer-8324701b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-suheer-8324701b3" height="30" width="40" /></a>
 <a href="https://api.whatsapp.com/send?phone=14087802267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="@muhammadsuheer" height="30" width="40" /></a>
