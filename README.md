@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Suheer</h1>
-<h4 align="center">I am a Full Stack web developer who is very passionate about his career 😍 wHo love to code all the time. Suheer is a Hard worker who contributed to many Real world projects especially during the participation in the Google Codein Competition ❤️where i solved too many problems.Suheer is a self learner and i beleive that the people who are good at self-learning have an increased ability to develop other skills as they often have to employ a certain set of skills in order to learn. Finally, self-learners have a strong commitment to tasks, as they learn how to stick to a plan until they achieve their goals.
+<h4 align="center">I am a Full Stack Web developer 😍 wHo love to code. Suheer is a Hard worker who contributed to many Real world projects especially during the participation in the Google Codein Competition ❤️.Suheer is a self learner and i beleive that the people who are good at self-learning have an increased ability to develop other skills as they often have to employ a certain set of skills in order to learn.
 </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsuheer&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsuheer" /> </p>
