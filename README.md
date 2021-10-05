@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on **Studying**
 
-- 🌱 I’m currently learning **Everything😄😄**
+- 🌱 I’m currently learning **Everything😂😂**
 
 - 👯 I always look to collaborate on **Open Source Projects**
 
