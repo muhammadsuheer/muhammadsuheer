@@ -18,15 +18,15 @@
 
 <br/>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **Studying**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Everything**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I always look to collaborate on **Open Source Projects**
 
 - 💬 Ask me about **Anything**
 
-- 📫Fun Fact:   **The thing i Hate 😊 i do it First.**
+- 📫Fact:   **Life is too small to travel the world.**
  
  ___
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools and Languages...***
