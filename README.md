@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/muhammad-suheer-8324701b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-suheer-8324701b3" height="30" width="40" /></a>
 <a href="https://api.whatsapp.com/send?phone=14087802267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="@muhammadsuheer" height="30" width="40" /></a>
 <a href="https://fb.com/suheer.mubashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suheer.mubashir" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammadsuheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadsuheer" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.suheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadsuheer" height="30" width="40" /></a>
 <a href="https://medium.com/@muhammadsuheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammadsuheer" height="30" width="40" /></a>
  
 </p>
