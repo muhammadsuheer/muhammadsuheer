@@ -26,7 +26,9 @@
 - 💬 Ask me about **Anything**
 
 - 📫Fact:   **Life is too small to travel the world.**
- 
+- 
+ [![An image of @muhammadsuheer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammadsuheer)](https://holopin.io/@muhammadsuheer)
+
  ___
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools and Languages...***
 <br/>
