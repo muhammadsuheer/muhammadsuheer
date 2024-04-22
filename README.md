@@ -2,9 +2,6 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsuheer&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsuheer" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadsuheer" alt="muhammadsuheer" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/muhammad_suheer" target="blank"><img src="https://img.shields.io/twitter/follow/muhammad_suheer?logo=twitter&style=for-the-badge" alt="muhammad_suheer" /></a> </p>
 
 - 🔭 I’m currently working on **MERN**
@@ -15,13 +12,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/muhammadsuheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadsuheer" height="30" width="40" /></a>
 <a href="https://codepen.io/muhammadsuheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="muhammadsuheer" height="30" width="40" /></a>
 <a href="https://dev.to/muhammadsuheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muhammadsuheer" height="30" width="40" /></a>
 <a href="https://twitter.com/muhammad_suheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammad_suheer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammadsuheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadsuheer" height="30" width="40" /></a>
-<a href="https://instagram.com/m_suheer020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_suheer020" height="30" width="40" /></a>
-<a href="https://medium.com/muhammadsuheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="muhammadsuheer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/freak_twins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freak_twins" height="30" width="40" /></a>
+<a href="https://medium.com/@muhammadsuheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="muhammadsuheer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
